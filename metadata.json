@@ -1,0 +1,8 @@
+{
+  "name": "Light Universe",
+  "description": "تطبيق الكون الخفيف - Light Universe: مستكشف الأجرام والمجرات والنجوم والثقوب السوداء في فقاعة الكون المنظور مع دعم متعدد اللغات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
